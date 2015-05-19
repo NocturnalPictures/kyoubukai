@@ -1,11 +1,15 @@
 # kyoubukai
 
 | Kyoubukai | BoosterBlade |
-| --------- | ------------ |
-|   Section:|  Siren Storm:|
-| Content Cell  | Content Cell  |
+| ---------:| ------------:|
+|*Title*    |*Siren Storm* |
+| Cell      | Cell         |
 
 ```python
+
 from sys import argv
+
 print(argv)
+
 ```
+
